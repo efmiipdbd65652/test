@@ -1,6 +1,6 @@
 {
   "pr_f": 2100000,
   "threads": 4,
-  "sp_d": 3000,
-  "max_num": 5
+  "sp_d": 2000,
+  "max_num": 60
 }
